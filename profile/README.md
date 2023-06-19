@@ -1,6 +1,6 @@
 # Hi there 👋
 Nightly is an organization developing discord bots for entertainment and utility. We are the developers behind the [Nightly bot](https://github.com/NightlyOrg/Nightly-bot) which is based on an old version.
-Nightly is supported and sponsored through hosting by [Blue Atomic](https://github.com/BlueAtomic), a software development organization by MiataBoy
+Nightly is an organisation owned by [Wolfsvale](https://github.com/BlueAtomic), a software development organization by MiataBoy
 
 ## What type of bots do you make?
 The bots we make mainly focus on utility and entertainment. So far, we have worked on, and with:
